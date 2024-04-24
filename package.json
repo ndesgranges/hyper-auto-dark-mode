@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url" : "https://github.com/johnviolano/hyper-day-night-switch.git"
+    "url" : "https://github.com/ndesgranges/hyper-day-night-switch"
   },
   "author": "John Violano",
   "license": "ISC",
