@@ -1,13 +1,13 @@
 {
-  "name": "hyper-day-night-switch",
+  "name": "hyper-auto-dark-mode",
   "version": "1.0.0",
   "description": "Swap between atom (light/dark) themes at day/night changes.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url" : "https://github.com/ndesgranges/hyper-day-night-switch"
+    "url" : "https://github.com/ndesgranges/hyper-auto-dark-mode"
   },
-  "author": "John Violano",
+  "author": "Nicolas Desgranges",
   "license": "ISC",
   "dependencies": {
     "hyper-one-light": "latest",

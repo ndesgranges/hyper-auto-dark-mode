@@ -13,7 +13,7 @@ Edit ~/.hyper.js and include the plugin name:
 ```
 module.exports = {
     config: {
-        plugins: ['hyper-day-night-switch'],
+        plugins: ['hyper-auto-dark-mode'],
     }
 }
 ```
